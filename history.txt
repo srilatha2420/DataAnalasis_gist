@@ -1,0 +1,120 @@
+    1  git init
+    2  git clone 'https://github.com/683444021441/gist_git
+    3  git init
+    4  git clone '>
+    5  git init
+    6  git clone
+    7  git init
+    8  git clone '
+    9  git init
+   10  git clone 'https://github.com/683444021441/gist_git'
+   11  ls
+   12  cd gist_git/
+   13  ls
+   14  [2~
+   15  lslllsls
+   16  cd
+   17  git init
+   18  git clone '$ git clone 'https://github.com/683444021441/gist_git'
+   19  mkdir apssdc
+   20  mkdir gist
+   21  clear
+   22  cd apssdc1
+   23  clear
+   24  mkdir honey
+   25  touch profile.txt
+   26  pwd
+   27  clear
+   28  cd honey
+   29  touch profile.txt
+   30  ls
+   31  vi profile.txt
+   32  cat profile.txt
+   33  vi profile text
+   34  vi profile.txt
+   35  touch sample.txt
+   36  touch sample.html
+   37  vi sample.html
+   38  git init
+   39  git clone 'https://github.com/683444021441/gist_git'
+   40  ls
+   41  cd
+   42  cd gist-git/
+   43  ls
+   44  git config --global user,name 'sruthi'
+   45  git config  --global username '683444021441'
+   46  git init
+   47  git status -s
+   48  touch example.py
+   49  git status -s
+   50  git add .
+   51  git init
+   52  git clone 'https://github.com/683444021441/gist_git
+   53  git init
+   54  git clone '
+   55  git init
+   56  git clone ' '
+   57  git init
+   58  git clone 'https://github.com/683444021441/gist_git
+   59  touch demo.txt
+   60  mkdir gist
+   61  cd gist
+   62  pwd
+   63  cd ..
+   64  pwd
+   65  cd e:
+   66  pwd
+   67  cd d:
+   68  cd c:
+   69  cd C:/Users/dell/Desktop/srilatha-424
+   70  pwd
+   71  echo "Hello"
+   72  echo "1..100"
+   73  echo {1..100}
+   74  touch file{1..100}.txt
+   75  touch python{20..50}.py
+   76  touch clanguage{50..70}.cpp
+   77  pwd
+   78  ls
+   79  touch demo.txt
+   80  LS
+   81  rmdir gist
+   82  ls
+   83  ls
+   84  rm demo.txt
+   85  rm file{1..10}.txt
+   86  ls
+   87  rm file{50..100}.txt
+   88  ls
+   89  rm clanguage{50..100}.cpp
+   90  rm*.txt
+   91  ls
+   92  rm *.txt
+   93  ls
+   94  rm *.py
+   95  ls
+   96  touch file{1..100}.txt
+   97  ls
+   98  rm file{50..100}.txt
+   99  ls
+  100  nano myfile.txt
+  101  nano myfile.txt
+  102  cat myfile.txt
+  103  nano myfile.txt
+  104  cat mnyfile.txt
+  105  cat myfile.txt
+  106  nano myfile.txt
+  107  cat myfile.txt
+  108  touch myfile.txt
+  109  nano myfile.txt
+  110  cat myfile.txt
+  111  echo "srilatha">>myfile2.txt
+  112  cat myfile2.txt
+  113  echo{1..10}>>myfile3.txt
+  114  echo {1..10}>>myfile3.txt
+  115  cat myfile3.txt
+  116  mv myfile2.txt myfile3.txt
+  117  cat myfile2.txt
+  118  cat myfile3.txt
+  119  history
+  120  history>>history.txt
